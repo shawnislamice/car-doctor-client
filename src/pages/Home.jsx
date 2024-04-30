@@ -1,6 +1,7 @@
 
 import { Helmet } from 'react-helmet-async';
 import Slider from '../components/Slider';
+import QualifiedExpreience from '../components/QualifiedExpreience';
 
 const Home = () => {
     return (
@@ -9,6 +10,7 @@ const Home = () => {
                 <title>Home: Car Dorctor</title>
             </Helmet>
             <Slider></Slider>
+            <QualifiedExpreience></QualifiedExpreience>
         </div>
     );
 };
