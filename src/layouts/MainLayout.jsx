@@ -5,11 +5,15 @@ import Footer from '../components/Footer';
 
 const MainLayout = () => {
     return (
-        <div className='container mx-auto max-w-screen-xl'>
-            <NavBar></NavBar>
-            <Outlet></Outlet>
-            <Footer></Footer>
+      <div>
+        <div className="container mx-auto max-w-screen-xl">
+          <NavBar></NavBar>
+          <Outlet></Outlet>
         </div>
+        <div className="bg-[#151515]">
+          <Footer></Footer>
+        </div>
+      </div>
     );
 };
 

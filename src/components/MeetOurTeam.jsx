@@ -37,13 +37,13 @@ const MeetOurTeam = () => {
             <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
               <a
                 href="#team2"
-                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811]"
+                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811] hover:text-white"
               >
                 <GoArrowLeft size={20}></GoArrowLeft>
               </a>
               <a
                 href="#team1"
-                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811]"
+                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811] hover:text-white"
               >
                 <GoArrowRight size={20} className=""></GoArrowRight>
               </a>
@@ -73,13 +73,13 @@ const MeetOurTeam = () => {
             <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
               <a
                 href="#team2"
-                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811]"
+                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811] hover:text-white"
               >
                 <GoArrowLeft size={20}></GoArrowLeft>
               </a>
               <a
                 href="#team3"
-                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811]"
+                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811] hover:text-white"
               >
                 <GoArrowRight size={20} className=""></GoArrowRight>
               </a>
@@ -109,13 +109,13 @@ const MeetOurTeam = () => {
             <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
               <a
                 href="#team3"
-                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811]"
+                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811] hover:text-white"
               >
                 <GoArrowLeft size={20}></GoArrowLeft>
               </a>
               <a
                 href="#team1"
-                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811]"
+                className="btn btn-circle bg-opacity-30 border-none outline-none text-black hover:bg-[#FF3811] hover:text-white"
               >
                 <GoArrowRight size={20} className=""></GoArrowRight>
               </a>

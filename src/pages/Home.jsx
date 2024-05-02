@@ -6,6 +6,8 @@ import Service from '../components/Service';
 import Contact from '../components/Contact';
 import Products from '../components/Products';
 import MeetOurTeam from '../components/MeetOurTeam';
+import WhyChooseUs from '../components/WhyChooseUs';
+import CustomerSays from '../components/CustomerSays';
 
 const Home = () => {
     return (
@@ -19,6 +21,8 @@ const Home = () => {
             <Contact></Contact>
             <Products></Products>
             <MeetOurTeam></MeetOurTeam>
+            <WhyChooseUs></WhyChooseUs>
+            <CustomerSays></CustomerSays>
         </div>
     );
 };
